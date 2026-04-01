@@ -7,7 +7,7 @@ vxm2ek
 
 [DOI](https://github.com/evamaiwinston/ds4320project1/blob/main/pipeline_main.ipynb)
 
-[Press Release]
+[Press Release](https://github.com/evamaiwinston/ds4320project1/blob/main/pressrelease.md)
 
 [Data](https://myuva-my.sharepoint.com/:f:/g/personal/vxm2ek_virginia_edu/IgASRpSRGnZiQZVZQA55sCqsAQd5f3gI0EPNJEDve9bN7no?e=fi3VqU)
 
