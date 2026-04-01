@@ -5,7 +5,7 @@ This repository contains the data pipeline, analysis, and modeling code for a st
 Eva Winston  
 vxm2ek
 
-[DOI](https://github.com/evamaiwinston/ds4320project1/blob/main/pipeline_main.ipynb)
+[![DOI](https://zenodo.org/badge/1188925967.svg)](https://doi.org/10.5281/zenodo.19374436)
 
 [Press Release](https://github.com/evamaiwinston/ds4320project1/blob/main/pressrelease.md)
 
@@ -23,7 +23,7 @@ Diverging away from the intial problem, I considered the different factors that 
 
 I was drawn to the initial problem about predicting air quality because I feel strongly about treating the environment responsibly. I have worked on projects pertaining to data centers' emissions and environmental impact, but I wanted to look into other factors that may be indicative of air quality. Also, I recently visited LA. I enjoyed my time, so I wanted to a project that could tie in California somehow. While I was there, I heard *a lot* of comments about the incredible volume of traffic in the city and how it takes at least thirty minutes to get anywhere. I learned that in the 60s there was a developing regional tram system in LA, but tire companies lobbied to have it shut down. I was motivated to demonstrate the potential correlation between LA traffic patterns and air quality in hopes of encouraging alternative, more environmental modes of transportation. 
 
-* Headline of press release and (link)
+[LA's Famous Traffic Traps Harmful Air Pollutants in the Air Overnight](https://github.com/evamaiwinston/ds4320project1/blob/main/pressrelease.md)
 
 ## Domain Exposition 
 
